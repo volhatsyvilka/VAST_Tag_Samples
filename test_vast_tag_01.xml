@@ -20,7 +20,7 @@
             </TrackingEvents>
             <VideoClicks>
               <ClickThrough>
-                <![CDATA[ https://example1.com ]]>
+                <![CDATA[ http://example1.com ]]>
               </ClickThrough>
             </VideoClicks>
             <MediaFiles>
