@@ -27,8 +27,8 @@
               <MediaFile id="mf-1004" delivery="progressive" type="video/mp4" width="1280" height="720" bitrate="2000">
                 <![CDATA[ https://samplelib.com/mp4/sample-15s-720p.mp4 ]]>
               </MediaFile>
-              <MediaFile id="mf-1005" delivery="progressive" type="video/mp4" width="1280" height="720" bitrate="2000">
-                <![CDATA[ https://samplelib.com/mp4/sample-15s-720p.mp4 ]]>
+              <MediaFile delivery="progressive" type="video/mp4" scalable="true" maintainAspectRatio="true" width="640" height="360">
+                <![CDATA[ https://media.aso1.net/storage/2/b/b/2bb05d569550cdcd26dea2b01eb3b865de04c97a.mp4 ]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
